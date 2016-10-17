@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab5ExplicitIntents</string>
+    <string name="btn_actTwo">Activity 2</string>
+    <string name="btn_actThree">Activity 3</string>
+    <string name="txt_menu">Please click any button to launch the corresponding activity!</string>
+    <string name="txt_result">Results:</string>
+    <string name="btn_browser">Launch Browser</string>
+    <string name="btn_geo">Launch Maps</string>
+    <string name="txt_implicit">Implicit Intents</string>
+    <string name="btn_act2_btn">Clicke Me!</string>
+    <string name="empty">Nothing was Received</string>
+    <string name="exitView">Return</string>
+    <string name="btn_actFour">Activity 4</string>
+    <string name="act5">Press the return button!</string>
+    <string name="btn_actFive">Activity 5</string>
+</resources>
